@@ -1,4 +1,4 @@
-# Sonic Robo Blast 2 Forked for ArkOS
+# Sonic Robo Blast 2 Forked for RG351
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
 [![Build status](https://travis-ci.org/STJr/SRB2.svg?branch=master)](https://travis-ci.org/STJr/SRB2)
